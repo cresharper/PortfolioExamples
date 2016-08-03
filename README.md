@@ -150,7 +150,6 @@ Feel free to add more (in alphabetical order), or remove yours if you'd rather n
 * [sohweb.co.uk](http://sohweb.co.uk)
 * [strml.net](http://strml.net)
 * [substack.net](http://substack.net)
-* [suhyunpak.com](http://suhyunpak.com)
 * [syropia.net](http://syropia.net)
 * [t-cote.ca](http://t-cote.ca)
 * [theelisabeth.com](http://theelisabeth.com)
